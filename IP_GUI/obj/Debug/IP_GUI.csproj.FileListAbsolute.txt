@@ -1,0 +1,26 @@
+C:\Users\Danny\source\repos\Ip-progammer\IP_GUI\bin\Debug\IP_GUI.exe.config
+C:\Users\Danny\source\repos\Ip-progammer\IP_GUI\bin\Debug\IP_GUI.exe
+C:\Users\Danny\source\repos\Ip-progammer\IP_GUI\bin\Debug\IP_GUI.pdb
+C:\Users\Danny\source\repos\Ip-progammer\IP_GUI\bin\Debug\da-DK\IP_GUI.resources.dll
+C:\Users\Danny\source\repos\Ip-progammer\IP_GUI\obj\Debug\IP_GUI.csprojAssemblyReference.cache
+C:\Users\Danny\source\repos\Ip-progammer\IP_GUI\obj\Debug\IP_GUI.Form1.resources
+C:\Users\Danny\source\repos\Ip-progammer\IP_GUI\obj\Debug\IP_GUI.Properties.Resources.resources
+C:\Users\Danny\source\repos\Ip-progammer\IP_GUI\obj\Debug\IP_GUI.Form1.da-DK.resources
+C:\Users\Danny\source\repos\Ip-progammer\IP_GUI\obj\Debug\IP_GUI.csproj.GenerateResource.cache
+C:\Users\Danny\source\repos\Ip-progammer\IP_GUI\obj\Debug\IP_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Danny\source\repos\Ip-progammer\IP_GUI\obj\Debug\da-DK\IP_GUI.resources.dll
+C:\Users\Danny\source\repos\Ip-progammer\IP_GUI\obj\Debug\IP_GUI.exe
+C:\Users\Danny\source\repos\Ip-progammer\IP_GUI\obj\Debug\IP_GUI.pdb
+C:\Users\Danny\OneDrive\DM Projekt\IP calculater\Ip-progammer\IP_GUI\bin\Debug\IP_GUI.exe.config
+C:\Users\Danny\OneDrive\DM Projekt\IP calculater\Ip-progammer\IP_GUI\bin\Debug\IP_GUI.exe
+C:\Users\Danny\OneDrive\DM Projekt\IP calculater\Ip-progammer\IP_GUI\bin\Debug\IP_GUI.pdb
+C:\Users\Danny\OneDrive\DM Projekt\IP calculater\Ip-progammer\IP_GUI\bin\Debug\da-DK\IP_GUI.resources.dll
+C:\Users\Danny\OneDrive\DM Projekt\IP calculater\Ip-progammer\IP_GUI\obj\Debug\IP_GUI.csprojAssemblyReference.cache
+C:\Users\Danny\OneDrive\DM Projekt\IP calculater\Ip-progammer\IP_GUI\obj\Debug\IP_GUI.Form1.resources
+C:\Users\Danny\OneDrive\DM Projekt\IP calculater\Ip-progammer\IP_GUI\obj\Debug\IP_GUI.Properties.Resources.resources
+C:\Users\Danny\OneDrive\DM Projekt\IP calculater\Ip-progammer\IP_GUI\obj\Debug\IP_GUI.Form1.da-DK.resources
+C:\Users\Danny\OneDrive\DM Projekt\IP calculater\Ip-progammer\IP_GUI\obj\Debug\IP_GUI.csproj.GenerateResource.cache
+C:\Users\Danny\OneDrive\DM Projekt\IP calculater\Ip-progammer\IP_GUI\obj\Debug\IP_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Danny\OneDrive\DM Projekt\IP calculater\Ip-progammer\IP_GUI\obj\Debug\da-DK\IP_GUI.resources.dll
+C:\Users\Danny\OneDrive\DM Projekt\IP calculater\Ip-progammer\IP_GUI\obj\Debug\IP_GUI.exe
+C:\Users\Danny\OneDrive\DM Projekt\IP calculater\Ip-progammer\IP_GUI\obj\Debug\IP_GUI.pdb

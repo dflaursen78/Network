@@ -1,0 +1,10 @@
+C:\Users\Danny\OneDrive\DM Projekt\IP calculater\Ip-progammer\Osi\bin\Debug\Osi.exe.config
+C:\Users\Danny\OneDrive\DM Projekt\IP calculater\Ip-progammer\Osi\bin\Debug\Osi.exe
+C:\Users\Danny\OneDrive\DM Projekt\IP calculater\Ip-progammer\Osi\bin\Debug\Osi.pdb
+C:\Users\Danny\OneDrive\DM Projekt\IP calculater\Ip-progammer\Osi\obj\Debug\Osi.csprojAssemblyReference.cache
+C:\Users\Danny\OneDrive\DM Projekt\IP calculater\Ip-progammer\Osi\obj\Debug\Osi.Properties.Resources.resources
+C:\Users\Danny\OneDrive\DM Projekt\IP calculater\Ip-progammer\Osi\obj\Debug\Osi.csproj.GenerateResource.cache
+C:\Users\Danny\OneDrive\DM Projekt\IP calculater\Ip-progammer\Osi\obj\Debug\Osi.csproj.CoreCompileInputs.cache
+C:\Users\Danny\OneDrive\DM Projekt\IP calculater\Ip-progammer\Osi\obj\Debug\Osi.exe
+C:\Users\Danny\OneDrive\DM Projekt\IP calculater\Ip-progammer\Osi\obj\Debug\Osi.pdb
+C:\Users\Danny\OneDrive\DM Projekt\IP calculater\Ip-progammer\Osi\obj\Debug\Osi.Form1.resources
